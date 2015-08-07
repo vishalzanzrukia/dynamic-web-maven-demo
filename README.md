@@ -45,3 +45,8 @@ It basically contains the dynamic web application environment done with Eclipse,
    6. click Finish.
    7. That it!! rebuild and deploy again
 
+* Other references 
+
+   1. http://stackoverflow.com/questions/19655184/no-compiler-is-provided-in-this-environment-perhaps-you-are-running-on-a-jre-ra
+   2. http://stackoverflow.com/questions/10564684/how-to-fix-error-updating-maven-project-unsupported-iclasspathentry-kind-4
+
